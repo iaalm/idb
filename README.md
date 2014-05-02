@@ -5,7 +5,7 @@ iaalm C/C++ debug library
 
 ##Usage
 
-Include this library
+Include this library as the least header
 
 	#include <idb.h>
 
